@@ -39,6 +39,10 @@ List_num.append(int(input(“Digite um Numero”)))
 	A % de vezes que cada nome é repedido
 
 
+10 – Crie um Sistema de Cálculo de Media que receba 4 alunos e 3 notas cada
+	Dica: list_notas = [list_nota1,list_nota2]
+
+11 – Utilizando o exercício anterior crie uma lista com as medias e aplique o for de status
 
 
 
