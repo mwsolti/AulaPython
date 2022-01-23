@@ -28,8 +28,16 @@ Dica: https://replit.com/
 	A lista já devera ter 2 valores inseridos
 Ex:
 List_num = [0.1]
-
 List_num.append(int(input(“Digite um Numero”)))
+
+
+8 – Utilizando “While” e “For”, crie um algoritmo (Sistema) que cadastre 4 alunos e 4 medias, após isto utilize “If” para verificar status dos alunos
+
+9 – Da seguinte lista:
+	list_nomes
+	Retire a quantidade de vezes que cada nome é repetido
+	A % de vezes que cada nome é repedido
+
 
 
 
