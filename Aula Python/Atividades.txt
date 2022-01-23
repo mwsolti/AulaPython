@@ -13,6 +13,16 @@ Dica: https://replit.com/
 
 3 – Crie uma Lista de 10 casas(tanto faz o tipo), e print ela inteira
 
+4 – Crie uma lista vazia e adicione 3 valores usando append
+
+5 – Crie uma lista numérica de 4 casas e some a mesma
+
+6 – Crie 2 listas a primeira com nomes dos alunos e a segunda com as medias (Direto media não precisa fazer o cálculo)
+	Faça o associa mento usando a casa exemplo aluno [0] -> media [0]
+
+	Usando ifs e elifs verifica se o o aluno passou, está em recuperação ou reprovado
+
+	Exiba Aluno -> Status(Passou etc...)
 
 
 
