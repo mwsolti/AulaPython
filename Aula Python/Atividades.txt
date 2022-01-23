@@ -24,6 +24,13 @@ Dica: https://replit.com/
 
 	Exiba Aluno -> Status(Passou etc...)
 
+7 – Crie uma lista que o usuário tenha que inserir até 10 valores
+	A lista já devera ter 2 valores inseridos
+Ex:
+List_num = [0.1]
+
+List_num.append(int(input(“Digite um Numero”)))
+
 
 
 
