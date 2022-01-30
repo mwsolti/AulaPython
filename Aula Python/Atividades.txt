@@ -62,3 +62,24 @@ List_num.append(int(input(“Digite um Numero”)))
 
 Utilizar, IF/Else, For, While, Dict, List
 
+
+16 – Criar um sistema de “Criptografia de números”
+	O sistema terá um dicionário onde chave será o numero e valor o código criptografado
+
+Ex: 01 = XXX
+	02 = XXY
+	
+	O Sistema pedira um numero e exibira o código de criptografia referente ao numero
+
+	Números de 0 a 9
+
+
+Exercícios Revisão
+
+1 - Faça um Programa que peça dois números e imprima o maior deles.
+
+2 - Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
+
+3 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+
+
