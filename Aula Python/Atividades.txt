@@ -52,4 +52,13 @@ List_num.append(int(input(“Digite um Numero”)))
 	Ex: bacon:7.50
 14 – Com exercício anterior somar total dos preços do dicionário de produtos
 
+15 – Criar Sistema de Media de Aluno Completo
+
+	Recebe nome do aluno
+	Recebe 3 notas
+	Calcula Media
+	Verificar status(passou, recuperação, reprovou)
+	Retorna Valores para tela
+
+Utilizar, IF/Else, For, While, Dict, List
 
