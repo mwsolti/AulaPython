@@ -45,5 +45,11 @@ List_num.append(int(input(“Digite um Numero”)))
 11 – Utilizando o exercício anterior crie uma lista com as medias e aplique o for de status
 
 
+#Aula 03
+
+12 – Criar um dicionário com 4 chaves/valores
+13 – Criar um dicionário com 3 produtos/preço
+	Ex: bacon:7.50
+14 – Com exercício anterior somar total dos preços do dicionário de produtos
 
 
