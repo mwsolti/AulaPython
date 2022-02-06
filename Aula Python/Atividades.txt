@@ -83,3 +83,18 @@ Exercícios Revisão
 3 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
 
 
+Exercício funções:
+
+1 – Criar um sistema com funções que cadastre 3 pessoas com Codigo:NomeDaPessoa
+	Utilize uma função para cadastro
+
+2 – Crie um Sistema com Uma Função de Calculadora: 
+	Função receberá 2 valores e o tipo de cálculo: X(Multiplicação, /(Divisão, +(Soma), - (Subtração)
+
+3 -  Criar um sistema com funções:
+	Sistema ira pedir um código para o usuário
+	Se o Código estiver cadastrado, retorna valor se não retorna um erro dizendo: Código não cadastrado. 
+
+
+
+
