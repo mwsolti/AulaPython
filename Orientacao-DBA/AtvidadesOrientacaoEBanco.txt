@@ -1,0 +1,7 @@
+Exercícios Funções com Orientação
+1 – Calculadora de Mercado
+a – Crie uma calculadora simples de soma de valores
+
+b – Utilizando o retorno da calculadora, calcule o troco pegando valor inserido pelo usuário  
+
+c – Identifique caso Valor inserido pelo usuário for menos que a soma total
