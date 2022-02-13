@@ -5,3 +5,10 @@ a – Crie uma calculadora simples de soma de valores
 b – Utilizando o retorno da calculadora, calcule o troco pegando valor inserido pelo usuário  
 
 c – Identifique caso Valor inserido pelo usuário for menos que a soma total
+
+2 – Ônibus Lotado: Crie um sistema que tenham as seguintes características 
+	Ira pedir quantidade de passageiros por ponto de ônibus
+	Terá um constante(configuração) de quantidade de pontos que o ônibus ira percorrer
+	Terá uma constante(configuração) da quantidade máxima de passageiros
+	Ira alertas em caso de lotação
+
