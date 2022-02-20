@@ -1,26 +1,31 @@
-def solucaoAnagrama1(s1,s2):
-    umalista = list(s2)
+def verifica_anagrama(string1,string2):
 
+    list_string = list(string2)
     pos1 = 0
-    aindaOK = True
+    Anagrama = True
     cont_anagram = 0
-    while pos1 < len(s1) and aindaOK:
+
+    while pos1 < len(string1) and Anagrama:
         pos2 = 0
         encontrado = False
-        while pos2 < len(umalista) and not encontrado:
-            if s1[pos1] == umalista[pos2]:
+        while pos2 < len(list_string) and not encontrado:
+            if string1[pos1] == list_string[pos2]:
                 encontrado = True
                 cont_anagram +=1
             else:
-                pos2 = pos2 + 1
+                pos2 +=1
 
         if encontrado:
-            umalista[pos2] = None
+            list_string[pos2] = None
         else:
-            aindaOK = False
+            Anagrama = False
 
-        pos1 = pos1 + 1
+        pos1+=1
 
     return cont_anagram
 
-print(solucaoAnagrama1('abcd','dcba'))
+string1 = input("Digite a palavra 1: ")
+
+string2 = input("Digite a palavra 2: ")
+
+print(verifica_anagrama(string1,string2))
