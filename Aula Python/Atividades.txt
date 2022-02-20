@@ -95,6 +95,9 @@ Exercício funções:
 	Sistema ira pedir um código para o usuário
 	Se o Código estiver cadastrado, retorna valor se não retorna um erro dizendo: Código não cadastrado. 
 
-
+4 – Crie Um sistema que tenha os seguinte requisitos:
+1 – Cadastro de Nomes e Idade(Um Dicionário)
+2 -  Criar função de pesquisa de Idade pelo Nome
+3 – Exibir os nomes de uma idade X caso idade repetida
 
 
