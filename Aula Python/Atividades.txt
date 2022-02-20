@@ -101,3 +101,14 @@ Exercício funções:
 3 – Exibir os nomes de uma idade X caso idade repetida
 
 
+
+-------------------
+
+
+5 – Crie um Sistema de lista de Compras:
+	Lista recebera nome do produto e quantidade (Dicionário)
+	Terá um Função de Pesquisa por item da lista (nome do produto)
+	Exibir produtos com quantidade X
+	No final exibir lista completa com nome - quantidade
+
+
