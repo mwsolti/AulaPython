@@ -1,0 +1,7 @@
+Bacon
+Queijo
+Leite
+Macarrao
+Abacate
+Vinho
+--
