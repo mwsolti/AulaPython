@@ -1,0 +1,11 @@
+1 – Usando a função de criar arquivos faça um sistema com as seguintes exigências
+->	Função de Cadastro de pessoa (Nome, CPF, Idade, Sexo) Dica Guardar em uma lista
+->	Escrever a lista de dados de cada pessoa em um arquivo
+->	Cria um arquivo secundário com nome ou CPF(item para identificação de cada pessoa)
+->	Utilizando esta lista de pessoas cadastradas (mínimo 10) Faça:
+      1 – Quantas do Sexo Masculino
+      2 – Quantas do Sexo Feminino
+      3 – Quantas com idade acima de 18
+      4 – Quantas com idade abaixo de 18
+      5 – Quantas com idade acima de 50
+      6 – Quantas com nomes iguais
